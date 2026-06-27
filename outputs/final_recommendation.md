@@ -18,29 +18,29 @@ Based on the multiple regression model (R² = 0.794):
 
 | Factor | Coefficient | Significance | Impact |
 |---|---|---|---|
-| **Footfall** | +₹29.30 per customer | ✅ Very Strong | Most important driver |
-| **Marketing Spend** | +₹1.14 per ₹1 spent | ✅ Strong | Positive ROI confirmed |
-| **South Region** | +₹24,467 vs East | ✅ Significant | Location advantage |
-| **West Region** | +₹21,561 vs East | ✅ Significant | Location advantage |
-| Staff Count | +₹2,310 per person | ❌ Not significant | Cannot confirm |
-| Holiday Flag | +₹12,258 per holiday | ❌ Not significant | Cannot confirm |
-| North Region | +₹12,867 vs East | ❌ Not significant | Cannot confirm |
+| **Footfall** | +₹29.30 per customer | Very Strong | Most important driver |
+| **Marketing Spend** | +₹1.14 per ₹1 spent | Strong | Positive ROI confirmed |
+| **South Region** | +₹24,467 vs East | Significant | Location advantage |
+| **West Region** | +₹21,561 vs East | Significant | Location advantage |
+| Staff Count | +₹2,310 per person | Not significant | Cannot confirm |
+| Holiday Flag | +₹12,258 per holiday | Not significant | Cannot confirm |
+| North Region | +₹12,867 vs East | Not significant | Cannot confirm |
 
 ---
 
 ## 2. Which Variables Should Leadership Focus On?
 
-### Priority 1 — Footfall (Most Important) 🎯
+### Priority 1 — Footfall (Most Important)
 - **Every 1,000 additional customers = ₹29,300 more sales per month**
 - Footfall alone explains 73.6% of sales variation
 - **Actions:** Improve store visibility, run footfall-driving promotions, optimize store hours, improve parking/accessibility
 
-### Priority 2 — Marketing Spend 💰
+### Priority 2 — Marketing Spend
 - **Every ₹1 spent on marketing returns ₹1.14 in sales**
 - Positive ROI confirmed — marketing pays off
 - **Actions:** Maintain or increase marketing budgets, focus on channels that drive footfall, track marketing-to-footfall conversion
 
-### Priority 3 — Regional Strategy 🗺️
+### Priority 3 — Regional Strategy
 - South and West region stores outperform East stores by ₹24,467 and ₹21,561 respectively
 - **Actions:** Investigate what South and West stores do differently, replicate successful practices in East and North stores
 
@@ -112,9 +112,9 @@ Regression tells us that footfall and sales **move together** — when footfall 
 4. **Limited time period** — 4 months may not represent long-term patterns
 
 **What regression DOES tell us:**
-- Footfall is the strongest statistical predictor of sales ✅
-- Marketing spend has positive association with sales ✅
-- South and West regions show higher sales than East ✅
+- Footfall is the strongest statistical predictor of sales
+- Marketing spend has positive association with sales
+- South and West regions show higher sales than East
 - These insights are worth acting on — but results should be monitored
 
 ---

@@ -43,19 +43,19 @@ Model 3 (7 variables):          R² = 79.4%  ███████████�
 ## Significant Variables
 
 ### Model 1
-- **footfall** (p = 4.75E-94) ✅ — extremely significant
+- **footfall** (p = 4.75E-94) — extremely significant
 
 ### Model 2
-- **marketing_spend** (p = 2.48E-14) ✅ — significant
+- **marketing_spend** (p = 2.48E-14) — significant
 
 ### Model 3
-- **footfall** (p = 4.07E-23) ✅ — most important driver
-- **marketing_spend** (p = 4.92E-15) ✅ — significant
-- **region_South** (p = 0.0017) ✅ — significant
-- **region_West** (p = 0.0019) ✅ — significant
-- **staff_count** (p = 0.093) ❌ — not significant
-- **holiday_flag** (p = 0.091) ❌ — not significant
-- **region_North** (p = 0.092) ❌ — not significant
+- **footfall** (p = 4.07E-23) — most important driver
+- **marketing_spend** (p = 4.92E-15) — significant
+- **region_South** (p = 0.0017) — significant
+- **region_West** (p = 0.0019) — significant
+- **staff_count** (p = 0.093) — not significant
+- **holiday_flag** (p = 0.091) — not significant
+- **region_North** (p = 0.092) — not significant
 
 ---
 

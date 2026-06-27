@@ -60,14 +60,14 @@ Monthly Sales = 370,748.28
 
 | Variable | Coefficient | Significant? | Business Meaning |
 |---|---|---|---|
-| Intercept | 370,748.28 | ✅ Yes | Base monthly sales for an East region store with all other factors at zero |
-| footfall | 29.299 | ✅ Yes | Each additional customer → +₹29.30 in monthly sales |
-| staff_count | 2,309.87 | ❌ No (p=0.093) | Each additional staff member → +₹2,310 (not statistically reliable) |
-| marketing_spend | 1.137 | ✅ Yes | Every ₹1 of marketing spend → +₹1.14 in sales |
-| holiday_flag | 12,258.29 | ❌ No (p=0.091) | Holiday months → +₹12,258 (not statistically reliable) |
-| region_North | 12,867.03 | ❌ No (p=0.092) | North stores sell ₹12,867 more than East (not reliable) |
-| region_South | 24,466.78 | ✅ Yes | South stores sell ₹24,467 MORE than East stores |
-| region_West | 21,561.45 | ✅ Yes | West stores sell ₹21,561 MORE than East stores |
+| Intercept | 370,748.28 | Yes | Base monthly sales for an East region store with all other factors at zero |
+| footfall | 29.299 | Yes | Each additional customer → +₹29.30 in monthly sales |
+| staff_count | 2,309.87 | No (p=0.093) | Each additional staff member → +₹2,310 (not statistically reliable) |
+| marketing_spend | 1.137 | Yes | Every ₹1 of marketing spend → +₹1.14 in sales |
+| holiday_flag | 12,258.29 | No (p=0.091) | Holiday months → +₹12,258 (not statistically reliable) |
+| region_North | 12,867.03 | No (p=0.092) | North stores sell ₹12,867 more than East (not reliable) |
+| region_South | 24,466.78 | Yes | South stores sell ₹24,467 MORE than East stores |
+| region_West | 21,561.45 | Yes | West stores sell ₹21,561 MORE than East stores |
 
 ---
 
